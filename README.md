@@ -47,7 +47,6 @@ const local = {
     { fecha: new Date(2019, 1, 7), nombreVendedora: "Sheryl", componentes: ["Monitor GPRS 3000", "RAM Quinston"], sucursal: "Caballito" },
     { fecha: new Date(2019, 1, 14), nombreVendedora: "Ada", componentes: ["Motherboard ASUS 1200", "HDD Toyiva"], sucursal: "Centro" }
   ],
-
   precios: [
     { componente: "Monitor GPRS 3000", precio: 200 },
     { componente: "Motherboard ASUS 1500", precio: 120 },
