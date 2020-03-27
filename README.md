@@ -73,7 +73,7 @@ Se pide desarrollar las siguientes funciones
 
 * **ventasVendedora(nombre, local)**: obtiene el valor total de todas las ventas realizadas por una vendedora sin límite de fecha.
 
-* **componenteMasVendido(ventas)**: dada una lista de ventas, devuelve el nombre del componente que más cantidad de ventas tuvo históricamente. El dato de la cantidad de ventas es el que indica la función `cantidadVentasComponente`
+* **componenteMasVendido(local)**: devuelve el nombre del componente que más cantidad de ventas tuvo históricamente en un local. El dato de la cantidad de ventas es el que indica la función `cantidadVentasComponente`
 
 * **huboVentas(mes, anio, ventas)**: indica si hubo ventas en un mes determinado. El mes es un número entero que va desde el 1 (enero) hasta el 12 (diciembre).
 
